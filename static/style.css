@@ -14,7 +14,7 @@
 
 .join{
     display: flex;
-    flex-direction: raw;
+    flex-direction: row;
     width: 100%;
 }
 
